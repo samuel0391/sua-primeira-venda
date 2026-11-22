@@ -1,0 +1,25 @@
+SITE DE VENDAS — PRIMEIRA VENDA NA KIWIFY
+
+Arquivos:
+- index.html: estrutura e textos da página
+- style.css: visual neon verde/preto e layout responsivo
+- script.js: menu mobile e botões de checkout
+
+Para abrir:
+1. Extraia o ZIP.
+2. Abra a pasta no VS Code.
+3. Abra index.html no navegador ou use a extensão Live Server.
+
+Para configurar a compra:
+1. Abra script.js.
+2. Substitua COLE_AQUI_SEU_LINK_DE_CHECKOUT pelo link verdadeiro do seu checkout Kiwify.
+3. Salve o arquivo.
+
+Personalização:
+- Edite os textos diretamente no index.html.
+- Edite cores, tamanhos e efeitos no style.css.
+- Os três depoimentos são espaços de exemplo: substitua por avaliações reais e autorizadas.
+- Ajuste o preço no index.html caso sua oferta mude.
+
+A página não processa pagamentos por conta própria. O botão redireciona para o checkout que você informar.
+O conteúdo não promete vendas ou ganhos; resultados dependem de diversos fatores.
